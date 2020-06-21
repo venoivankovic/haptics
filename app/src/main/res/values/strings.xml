@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HapticFeedbackFinal</string>
+    <string name="startServiceString">Start Service</string>
+    <string name="endServiceString">Stop Service</string>
+    <string name="timeLeft">Time Left</string>
+    <string name="distanceLeft">Distance Left</string>
+    <string name="decision">Decision</string>
+</resources>
